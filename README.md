@@ -1,0 +1,1 @@
+# AI-Trash-Detection-Sorting-Project
